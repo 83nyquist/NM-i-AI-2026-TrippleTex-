@@ -1,0 +1,11 @@
+{
+  "provider": "google",
+  "model": "gemini-3.1-pro-preview",
+  "apiKey": "AIzaSyCf3_Qaw9LXuYGQBgSp9NH3CeBfpZsxU2E",
+  "mcpServers": {
+    "nmiai": {
+      "url": "https://mcp-docs.ainm.no/mcp",
+      "transport": "http"
+    }
+  }
+}
